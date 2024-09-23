@@ -34,7 +34,7 @@ S&B = Sutton and Barto, the course textbook. Available [here](http://incompletei
 
 | Lecture              | Date        | Material                                      | Readings |
 |----------------------|-------------|----------------------------------------------|----------|
-| Week 1, Tuesday       | September 24   | RL is not very useful. Why?                  | S & B Ch 1 <br> S & B Ch 3 <br> [Supervised Learning](https://see.stanford.edu/materials/aimlcs229/cs229-notes1.pdf), [Just use PID](https://archives.argmin.net/2018/04/19/pid/) |
+| Week 1, Tuesday       | September 24   | RL is not very useful. Why?                  | S & B Ch 1 <br> S & B Ch 3 <br> [Supervised Learning Recap](https://see.stanford.edu/materials/aimlcs229/cs229-notes1.pdf), [PyTorch recap](https://github.com/yunjey/pytorch-tutorial/blob/master/tutorials/02-intermediate/convolutional_neural_network/main.py) <br> [Just use PID](https://archives.argmin.net/2018/04/19/pid/) |
 | Week 1, Thursday       | September 26   | MDPs, Tabular RL                             |    S & B 4.1-4.4 <br> S & B 5.1 - 5.4      |
 | Week 2, Tuesday     | October 1  | Q-learning                                   |      S & B 6.1 - 6.5 <br> [Playing Atari with Deep Q Learning](https://arxiv.org/abs/1312.5602)    |
 | Week 2, Thursday     | October 3  | Advanced Q-learning                          |          |
