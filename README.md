@@ -15,7 +15,7 @@ Reinforcement Learning: Theory and Algorithms, Agarwal et al. (reference)
 |--------------------------------|---------------|-------------------------|
 |   Intro to PyTorch, Imitation Learning       | Sept 24   | Oct 1  |
 |   Q-Learning      |  Oct 1   | Oct 10  |
-|   Policy Gradients     |  Oct 10   | Oct 22  |
+|   Policy Gradients     |  Oct 10   | Oct 21  |
 |   Midterm (online)    |  Oct 22   | Oct 22  |
 |   Offline RL     | Oct 24  | Nov 7  |
 |   RLHF & LLMs     |  Nov 7   | Nov 19  |
