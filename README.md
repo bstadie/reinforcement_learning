@@ -39,7 +39,7 @@ S&B = Sutton and BXXX, the course textbook. Available here.
 | Week 6, Thursday      | February 13 | RLHF, RLAIF                                  |          |
 | Week 7, Tuesday       | February 15 | Alpha-Zero                                   |          |
 | Week 7, Thursday      | February 20 | Multi-Goal RL                                |          |
-| Week 8, Tuesday       | February 22 | Hierarchical RL (graph-based)                |          |
+| Week 8, Tuesday       | February 22 | Hierarchical RL & Graph-based RL             |          |
 | Week 8, Thursday      | February 27 | Few Shot Learning (Wonderful Team)           |          |
 | Week 9, Tuesday       | February 29 | AI Safety                                    |          |
 | Week 9, Thursday      | March 5     | Science Fiction and RL                       |          |
