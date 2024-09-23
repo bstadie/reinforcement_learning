@@ -26,15 +26,15 @@ S&B = Sutton and BXXX, the course textbook. Available here.
 
 | Lecture              | Date        | Material                                      | Readings |
 |----------------------|-------------|----------------------------------------------|----------|
-| Week 1, Tuesday       | January 4   | RL is not very useful. Why?                   | [S & B], [Linear Models] |
+| Week 1, Tuesday       | January 4   | RL is not very useful. Why?                  | [S & B], [Linear Models] |
 | Week 2, Tuesday       | January 9   | MDPs, Tabular RL                             |          |
 | Week 2, Thursday      | January 11  | Q-learning                                   |          |
 | Week 3, Tuesday       | January 18  | Advanced Q-learning                          |          |
 | Week 3, Thursday      | January 23  | Policy Gradients                             |          |
-| Week 4, Tuesday       | January 25  | Advanced Policy Gradients [Add D2AC]         |          |
+| Week 4, Tuesday       | January 25  | Advanced Policy Gradients                    |          |
 | Week 4, Thursday      | January 30  | Exploration                                  |          |
-| Week 5, Tuesday       | February 1  | Inverse RL (Imitation)                       |          |
-| Week 5, Thursday      | February 6  | Advanced Imitation (diffusion) [CDRB, Shared Autonomy, Diffuser] |  |
+| Week 5, Tuesday       | February 1  | Inverse RL                                   |          |
+| Week 5, Thursday      | February 6  | Advanced Imitation (diffusion)               |          |
 | Week 6, Tuesday       | February 8  | Offline-RL                                   |          |
 | Week 6, Thursday      | February 13 | RLHF, RLAIF                                  |          |
 | Week 7, Tuesday       | February 15 | Alpha-Zero                                   |          |
