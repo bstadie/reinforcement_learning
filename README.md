@@ -5,7 +5,7 @@
 
 [Open AI: Spinning up](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
 
-Reinforcement Learning: Theory and Algorithms, Agarwal et al. (reference)
+[Reinforcement Learning: Theory and Algorithms, Agarwal et al. (theory reference)](https://rltheorybook.github.io/rltheorybook_AJKS.pdf)
 
 
 # Homeworks and Due Dates
