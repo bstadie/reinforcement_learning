@@ -1,8 +1,10 @@
 # Stat 436 -- Reinforcement Learning Fall 2024
 
 # Course Materials
-[Sutton and Barto: Reinforcement Learning, an Introduction](http://incompleteideas.net/book/RLbook2020.pdf}
+[Sutton and Barto: Reinforcement Learning, an Introduction](http://incompleteideas.net/book/RLbook2020.pdf)
+
 [Open AI Spinning up](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
+
 Reinforcement Learning: Theory and Algorithms, Agarwal et al. (reference)
 
 
