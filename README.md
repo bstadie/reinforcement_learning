@@ -34,11 +34,11 @@ S&B = Sutton and Barto, the course textbook. Available [here](http://incompletei
 
 | Lecture              | Date        | Material                                      | Readings |
 |----------------------|-------------|----------------------------------------------|----------|
-| Week 1, Tuesday       | September 24   | RL is not very useful. Why?                  | [S & B Ch 1 and Ch 3 ], [Supervised Learning](https://see.stanford.edu/materials/aimlcs229/cs229-notes1.pdf), [Just use PID](https://archives.argmin.net/2018/04/19/pid/) |
-| Week 1, Thursday       | September 26   | MDPs, Tabular RL                             |    [S & B 4.1-4.4], [S & B 5.1 - 5.4]      |
-| Week 2, Tuesday     | October 1  | Q-learning                                   |      [S & B 6.1 - 6.5], [Playing Atari with Deep Q Learning](https://arxiv.org/abs/1312.5602)    |
+| Week 1, Tuesday       | September 24   | RL is not very useful. Why?                  | S & B Ch 1, S & B Ch 3 , [Supervised Learning](https://see.stanford.edu/materials/aimlcs229/cs229-notes1.pdf), [Just use PID](https://archives.argmin.net/2018/04/19/pid/) |
+| Week 1, Thursday       | September 26   | MDPs, Tabular RL                             |    S & B 4.1-4.4, S & B 5.1 - 5.4      |
+| Week 2, Tuesday     | October 1  | Q-learning                                   |      S & B 6.1 - 6.5, [Playing Atari with Deep Q Learning](https://arxiv.org/abs/1312.5602)    |
 | Week 2, Thursday     | October 3  | Advanced Q-learning                          |          |
-| Week 3, Tuesday      | October 8  | Policy Gradients                             |     [S & B 13.1 - 13.6], [The Policy of Truth](https://archives.argmin.net/2018/02/20/reinforce/), [Issues with PGs](https://archives.argmin.net/2018/03/13/pg-saga/)     |
+| Week 3, Tuesday      | October 8  | Policy Gradients                             |     S & B 13.1 - 13.6, [The Policy of Truth](https://archives.argmin.net/2018/02/20/reinforce/), [Issues with PGs](https://archives.argmin.net/2018/03/13/pg-saga/)     |
 | Week 3, Thurdsay    | October 10  | Advanced Policy Gradients                    |          |
 | Week 4, Tuesday    | October 15  | Exploration                                  |          |
 | Week 4, Thursday    | October 17  | Inverse RL                                   |          |
