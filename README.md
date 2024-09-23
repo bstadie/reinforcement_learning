@@ -3,7 +3,7 @@
 # Course Materials
 [Sutton and Barto: Reinforcement Learning, an Introduction](http://incompleteideas.net/book/RLbook2020.pdf)
 
-[Open AI Spinning up](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
+[Open AI: Spinning up](https://spinningup.openai.com/en/latest/spinningup/keypapers.html)
 
 Reinforcement Learning: Theory and Algorithms, Agarwal et al. (reference)
 
@@ -44,13 +44,13 @@ S&B = Sutton and Barto, the course textbook. Available [here](http://incompletei
 | Week 5, Thursday  | October 24  | Advanced Imitation (diffusion)               |          |
 | Week 6, Tuesday      | October 29  | Offline-RL                                   |          |
 | Week 6, Thursday | October 31 | RLHF, RLAIF                                  |          |
-| Week 7, Tuesday | November 5th | No class (Election Day)                               |          |
-| Week 7, Thursday      | November 7th | Alpha-Zero                                   |          |
-| Week 8, Tuesday    | November 12th | Multi-Goal RL                                |          |
-| Week 8, Thursday | November 14th | Hierarchical RL & Graph-based RL             |          |
-| Week 9, Tuesday      | November 19th | Few Shot Learning (Wonderful Team)           |          |
-| Week 9, Thursday     | November 21st | AI Safety                                    |          |
-| Week 10, Tuesday     | November 26th    | Science Fiction and RL                       |          |
+| Week 7, Tuesday | November 5 | No class (Election Day)                               |          |
+| Week 7, Thursday      | November 7 | Alpha-Zero                                   |          |
+| Week 8, Tuesday    | November 12 | Multi-Goal RL                                |          |
+| Week 8, Thursday | November 14 | Hierarchical RL & Graph-based RL             |          |
+| Week 9, Tuesday      | November 19 | Few Shot Learning (Wonderful Team)           |          |
+| Week 9, Thursday     | November 21 | AI Safety                                    |          |
+| Week 10, Tuesday     | November 26    | Science Fiction and RL                       |          |
 
 
 
