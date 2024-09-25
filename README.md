@@ -44,7 +44,7 @@ S&B = Sutton and Barto, the course textbook. Available [here](http://incompletei
 | Week 4, Thursday    | October 17  | Inverse RL                                   |          |
 | Week 5, Tuesday    | October 22  | Online Midterm Exam (no class)                                  |          |
 | Week 5, Thursday  | October 24  | Advanced Imitation (diffusion)               |          |
-| Week 6, Tuesday      | October 29  | Offline-RL                                   |          |
+| Week 6, Tuesday      | October 29  | Offline-RL & Model-Based RL                                  |          |
 | Week 6, Thursday | October 31 | RLHF, RLAIF                                  |          |
 | Week 7, Tuesday | November 5 | No class (Election Day)                               |          |
 | Week 7, Thursday      | November 7 | Alpha-Zero                                   |          |
