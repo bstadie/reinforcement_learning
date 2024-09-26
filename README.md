@@ -13,6 +13,7 @@
 Youngmin Ko, youngminko2027@u.northwestern.edu
 
 Friday, Sept 27 10:30-11:30am
+
 Wednesdays from 1:30-2:30pm
 
 Zoom link: https://northwestern.zoom.us/j/2592304024
