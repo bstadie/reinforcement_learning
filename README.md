@@ -9,6 +9,13 @@
 
 [Tour of RL](https://arxiv.org/pdf/1806.09460)
 
+# TA Office Hours
+Youngmin Ko, youngminko2027@u.northwestern.edu
+
+Friday, Sept 27 10:30-11:30am
+Wednesdays from 1:30-2:30pm
+
+Zoom link: https://northwestern.zoom.us/j/2592304024
 
 # Homeworks and Due Dates
 
