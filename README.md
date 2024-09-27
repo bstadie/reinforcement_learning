@@ -23,9 +23,9 @@ Zoom link: https://northwestern.zoom.us/j/2592304024
 
 | Project title                  | Date released | Due date                
 |--------------------------------|---------------|-------------------------|
-|   Intro to PyTorch, Imitation Learning       | Sept 24   | Oct 1  |
-|   Q-Learning      |  Oct 1   | Oct 10  |
-|   Policy Gradients     |  Oct 10   | Oct 21  |
+|   Intro to PyTorch, Imitation Learning       | Sept 24   | Oct 2  |
+|   Q-Learning      |  Oct 2   | Oct 11  |
+|   Policy Gradients     |  Oct 11   | Oct 21  |
 |   Midterm (online)    |  Oct 22   | Oct 22  |
 |   Offline RL     | Oct 24  | Nov 7  |
 |   RLHF & LLMs     |  Nov 7   | Nov 19  |
