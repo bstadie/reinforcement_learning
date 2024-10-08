@@ -58,7 +58,7 @@ S&B = Sutton and Barto, the course textbook. Available [here](http://incompletei
 | Week 7, Thursday      | November 7 | Alpha-Zero                                   |          |
 | Week 8, Tuesday    | November 12 | Multi-Goal RL                                |          |
 | Week 8, Thursday | November 14 | Hierarchical RL & Graph-based RL             |          |
-| Week 9, Tuesday      | November 19 | Few Shot Learning (Wonderful Team)           |          |
+| Week 9, Tuesday      | November 19 | Few Shot Learning (Wonderful Team)           |      [MAML](https://arxiv.org/abs/1703.03400), [Wonderful Team](https://wonderful-team-robotics.github.io/)    |
 | Week 9, Thursday     | November 21 | AI Safety                                    |          |
 | Week 10, Tuesday     | November 26    | Science Fiction and RL                       |          |
 
