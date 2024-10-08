@@ -52,7 +52,7 @@ S&B = Sutton and Barto, the course textbook. Available [here](http://incompletei
 | Week 4, Thursday    | October 17  | Inverse RL                                   |     [GAIL](https://arxiv.org/abs/1606.03476), [Inverse RL](https://ai.stanford.edu/~ang/papers/icml04-apprentice.pdf), [Third Person Imitation](https://arxiv.org/abs/1703.01703)     |
 | Week 5, Tuesday    | October 22  | Online Midterm Exam (no class)                                  |          |
 | Week 5, Thursday  | October 24  | Advanced Imitation (diffusion)               |       [Diffuser](https://arxiv.org/pdf/2205.09991), [Cold Diffusion on the Replay Buffer](https://arxiv.org/pdf/2310.13914)   |
-| Week 6, Tuesday      | October 29  | Offline-RL & Model-Based RL                                  |          |
+| Week 6, Tuesday      | October 29  | Offline-RL & Model-Based RL                                  |     [CQL](https://sites.google.com/view/cql-offline-rl), [TDMPC](https://www.tdmpc2.com/), [Dreamer](https://research.google/blog/introducing-dreamer-scalable-reinforcement-learning-using-world-models/#:~:text=Dreamer%20consists%20of%20three%20processes,environment%20to%20collect%20new%20experience.), [IQL](https://arxiv.org/abs/2110.06169)     |
 | Week 6, Thursday | October 31 | RLHF, RLAIF                                  |    [Instruct GPT](https://arxiv.org/abs/2203.02155), [DPO](https://arxiv.org/abs/2305.18290), [BCO](https://arxiv.org/html/2404.04656v1), [RLHF overview](https://realcwl.github.io/posts/rlhf_to_ipo/), [Code](https://github.com/huggingface/trl)      |
 | Week 7, Tuesday | November 5 | No class (Election Day)                               |          |
 | Week 7, Thursday      | November 7 | Alpha-Zero                                   |          |
