@@ -47,11 +47,11 @@ S&B = Sutton and Barto, the course textbook. Available [here](http://incompletei
 | Week 2, Tuesday     | October 1  | Q-learning                                   |      S & B 6.1 - 6.5 <br> [Playing Atari with Deep Q Learning](https://arxiv.org/abs/1312.5602), [Spinning Up](https://spinningup.openai.com/en/latest/spinningup/rl_intro.html#the-optimal-q-function-and-the-optimal-action)    |
 | Week 2, Thursday     | October 3  | Advanced Q-learning                          |      [Rainbow](https://arxiv.org/abs/1710.02298), [Prioritized Experience Replay](https://arxiv.org/abs/1511.05952), [Double Q Learning](https://arxiv.org/pdf/1509.06461), [Distributional Q Learning](https://arxiv.org/pdf/1710.10044)    |
 | Week 3, Tuesday      | October 8  | Policy Gradients                             |     S & B 13.1 - 13.6 <br> [The Policy of Truth](https://archives.argmin.net/2018/02/20/reinforce/), [Issues with PGs](https://archives.argmin.net/2018/03/13/pg-saga/), [Spinning Up](https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html#deriving-the-simplest-policy-gradient)     |
-| Week 3, Thurdsay    | October 10  | Advanced Policy Gradients                    |          |
-| Week 4, Tuesday    | October 15  | Exploration                                  |          |
-| Week 4, Thursday    | October 17  | Inverse RL                                   |          |
+| Week 3, Thurdsay    | October 10  | Advanced Policy Gradients                    |     [TRPO](https://spinningup.openai.com/en/latest/algorithms/trpo.html), [PPO](https://spinningup.openai.com/en/latest/algorithms/ppo.html), [DDPG](https://spinningup.openai.com/en/latest/algorithms/ddpg.html), [SAC](https://spinningup.openai.com/en/latest/algorithms/sac.html)     |
+| Week 4, Tuesday    | October 15  | Exploration                                  |    [ICM](https://pathak22.github.io/noreward-rl/), [Incentivising Exploration](https://arxiv.org/abs/1507.00814), [Go-Explore](https://arxiv.org/abs/1901.10995), [VIME](https://arxiv.org/abs/1605.09674), [Optimal Exploration](https://zicokolter.com/publications/kolter2009nearbayesian.pdf)      |
+| Week 4, Thursday    | October 17  | Inverse RL                                   |     [GAIL](https://arxiv.org/abs/1606.03476), [Inverse RL](https://ai.stanford.edu/~ang/papers/icml04-apprentice.pdf), [Third Person Imitation](https://arxiv.org/abs/1703.01703)     |
 | Week 5, Tuesday    | October 22  | Online Midterm Exam (no class)                                  |          |
-| Week 5, Thursday  | October 24  | Advanced Imitation (diffusion)               |          |
+| Week 5, Thursday  | October 24  | Advanced Imitation (diffusion)               |       [Diffuser](https://arxiv.org/pdf/2205.09991), [Cold Diffusion on the Replay Buffer](https://arxiv.org/pdf/2310.13914)   |
 | Week 6, Tuesday      | October 29  | Offline-RL & Model-Based RL                                  |          |
 | Week 6, Thursday | October 31 | RLHF, RLAIF                                  |          |
 | Week 7, Tuesday | November 5 | No class (Election Day)                               |          |
