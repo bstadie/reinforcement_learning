@@ -60,7 +60,9 @@ S&B = Sutton and Barto, the course textbook. Available [here](http://incompletei
 | Week 8, Thursday | November 14 | Hierarchical RL & Graph-based RL             |     [HIRO](https://arxiv.org/abs/1805.08296), [L3P](https://arxiv.org/abs/2011.12491)     |
 | Week 9, Tuesday      | November 19 | Few Shot Learning (Wonderful Team)           |      [MAML](https://arxiv.org/abs/1703.03400), [Wonderful Team](https://wonderful-team-robotics.github.io/)    |
 | Week 9, Thursday     | November 21 | AI Safety                                    |     [AI Saftey Gridworlds](https://deepmind.google/discover/blog/specifying-ai-safety-problems-in-simple-environments/), [Blog post](https://deepmindsafetyresearch.medium.com/designing-agent-incentives-to-avoid-side-effects-e1ac80ea6107), [Concrete AI saftey](https://arxiv.org/pdf/1606.06565), [Off switch game](https://arxiv.org/abs/1611.08219), [Inverse reward design](https://proceedings.neurips.cc/paper/2017/hash/32fdab6559cdfa4f167f8c31b9199643-Abstract.html),  [Red Teaming](https://arxiv.org/abs/2202.03286), [Unsolved ML saftey](https://arxiv.org/abs/2109.13916), [Models vs Data](https://dl.acm.org/doi/abs/10.1145/3411764.3445518?casa_token=h4EZACtq7D4AAAAA:KC3FtAQHC0Dv4qSistc-QUbNgQQ2sFgg-Vy8LdtM_dIxYtqJLLn3Uwomnsv87ApSNWVwtl5bPbjqQBk)    |
-| Week 10, Tuesday     | November 26    | Science Fiction and RL                       |          |
+| Week 10, Tuesday     | November 26    | No class                       |          |
+| Week 11, Tuesday     | December 3   | Science Fiction and RL                      |          |
+
 
 
 
