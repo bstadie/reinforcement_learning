@@ -28,8 +28,8 @@ Zoom link: https://northwestern.zoom.us/j/2592304024
 |   Policy Gradients     |  Oct 11   | Oct 21  |
 |   Midterm (online)    |  Oct 22   | Oct 22  |
 |   Offline RL     | Oct 24  | Nov 11  |
-|   RLHF & LLMs     |  Nov 11   | Nov 22  |
-| Final presentation topic proposals |       |  Nov 26   | 
+|   RLHF & LLMs     |  Nov 11   | Nov 27  |
+| Final presentation topic proposals |       |  Nov 29   | 
 |  Final presentations        |       | Week of Dec 9th |
 
 
